@@ -1,9 +1,9 @@
 {
   "name": "Sepia Light",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.8.0",
   "description": "A sepia based theme focused on a light background, with contrast of syntax and pleasurable, long term viewing.",
-  "repository": "https://github.com/LucasKA/sepia-syntax",
+  "repository": "https://github.com/lucaska/sepia-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
