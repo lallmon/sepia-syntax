@@ -7,3 +7,5 @@
 If you use OSX, I suggest the Monaco font, which is not only free, but looks really great with this theme. YMMV
 
 If you like the theme, please :star: it, or send pull requests if you think you can improve it!
+
+![Sepia screenshot](https://dl.dropboxusercontent.com/u/57252/Screenshot%202015-02-02%2017.02.38.png)
