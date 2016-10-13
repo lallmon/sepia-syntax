@@ -309,3 +309,9 @@ atom-text-editor[mini] .scroll-view,
 :host([mini]) .scroll-view {
   padding-left: 1px;
 }
+
+atom-text-editor::shadow {
+  .bracket-matcher .region {
+    border-bottom: 3px double @blue;
+  }
+}
